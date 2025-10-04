@@ -78,10 +78,4 @@
 ###
 ##
 
-<h3>Profile views✔️</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/chenithz-gh/count.svg?"/>
-</div>
-
-##
