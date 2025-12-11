@@ -61,6 +61,11 @@
 
 ##
 
+<h3>GitHub Stats📊</h3> 
+<a href="https://github.com/chenithz-gh"><img src="https://github-readme-streak-stats-black-beta.vercel.app/?user=chenithz-gh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+##
+
 <h3>Contribution Graph⏳</h3>
 
 <div align="left">
