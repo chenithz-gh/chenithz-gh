@@ -64,6 +64,10 @@
 <h3>GitHub Stats📊</h3> 
 <a href="https://github.com/chenithz-gh"><img src="https://github-readme-streak-stats-black-beta.vercel.app/?user=chenithz-gh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenithz-gh=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenithz-gh&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chenithz-gh&theme=github_dark)
+
 ##
 
 <h3>Contribution Graph⏳</h3>
